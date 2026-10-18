@@ -1,5 +1,5 @@
 # Automation_Lab_1
 
-tal golan
-or
+tal golan,
+or,
 hila bashan
